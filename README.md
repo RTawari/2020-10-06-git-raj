@@ -1,5 +1,5 @@
 # 2020-10-06-git-raj
-
+## local from github to local
 - 'git init' : create got repository in current folder
 - 'git status' : to get the status of files
 - 'git add' : to add a file to get repository and in staging area
